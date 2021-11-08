@@ -1,0 +1,5 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+DaggerWebDash = "cfc5aa84-1a2a-41ab-b391-ede92ecae40c"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
